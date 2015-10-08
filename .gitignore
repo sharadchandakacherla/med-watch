@@ -1,0 +1,6 @@
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+css/normalize.css
+js/vendor/jquery-1.11.3.min.js
+js/vendor/modernizr-2.8.3.min.js
+img/
